@@ -9,9 +9,40 @@
     <form>
         <ul>
             <li>
+                <select name="modelo">
+                    <option value="" aria-label="modelo" disabled selected>Modelo</option>
+                    <option value="0">R4</option>
+                    <option value="1">R5</option>
+                    <option value="2">SR1</option>
+                </select>
+            </li>
+            <li>
                 <fieldset>
-                    
+                    <label>
+                        Potencia máxima
+                        <input type="number" name="number">
+                    </label>
                 </fieldset>
+            </li>
+            <li>
+                <select name="bluetooth">
+                    <option value="" aria-label="bluetooth" disabled selected>¿Bluetooth?</option>
+                    <option value="0">Si</option>
+                    <option value="1">No</option>
+                </select>
+            </li>
+            <li>
+                <select name="color">
+                    <option value="" aria-label="color" disabled selected>Color</option>
+                    <option value="0">Amarillo</option>
+                    <option value="1">Rojo</option>
+                    <option value="2">Azul</option>
+                    <option value="3">Verde</option>
+                    <option value="4">Rosa</option>
+                    <option value="5">Purpura</option>
+                    <option value="6">Blanco</option>
+                    <option value="7">Negro</option>
+                </select>
             </li>
         </ul>
     </form>

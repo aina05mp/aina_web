@@ -13,11 +13,16 @@
         }
 
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
         }
 
-        .big_letter {
+        .primer_div {
+            padding: 2%;
             font-size: 30px;
+        }
+
+        .titol {
+            margin-bottom: 1%;
         }
 
         span.red {
@@ -29,13 +34,28 @@
             font-weight: bold;
         }
 
+        .primer_text {
+            margin-top: 2%;
+        }
+
         span.back_red {
             background-color: red;
             color: white;
         }
 
-        .back_gris {
-            background-color: rgb(250, 250, 250);
+        .segon_div {
+            background-color: rgb(243, 243, 243);
+            padding: 2%;
+        }
+
+        .writing {
+            margin-bottom: 1%;
+            font-size: 30px;
+        }
+
+        .prova {
+            margin-bottom: 1%;
+            font-size: 17px;
         }
 
         .date {
@@ -46,20 +66,20 @@
 
 </head>
 <body>
-    <div class="big_letter">
-        <p><span class="red">SIMPLEST</span><span class="red_bold">BLOG</span></p>
+    <div class="primer_div">
+        <p class="titol"><span class="red">SIMPLEST</span><span class="red_bold">BLOG</span></p>
         <hr>
-        <p>Hi, I'm <span class="back_red">Feranando Moreira</span>, a Fronted Engineer. <br>
+        <p class="primer_text">Hi, I'm <span class="back_red">Feranando Moreira</span>, a Fronted Engineer. <br>
         Enthusiast performance, responsive design and usability, always looking for <br> the best project and good coffee. -- <span class="red">about me</span></p>
     </div>
-    <div class="back_gris">
-        <p class="big_letter">Writing...</p>
-        <p><i class="date">Dec 10, 2015</i> - <u><span class="red_bold">Welcome to Jekyll!</span></u> - You'll find this post in your _posts directory. Go ahead and <br> edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but <br> the most common way is to run jekyll serve,... <i><u><span class="red">Read more</span></u></i></p>
-        <hr>
-        <p><i class="date">Nov 26, 2015</i> - <u><span class="red_bold">Lorem ipsum dolor sit</span></u> - Lorem ipsum dolor sit amet, consectetuer adipiscing elit. <br> Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. <br> Vestibulum tortor quam, feugiat vitae, ultrices eget, tempor sit amet, ante. Donec eu libero sit amet <br> quam egestas semper... <i><u><span class="red">Read more</span></u></i></p>
-        <hr>
-        <p><i class="date">Nov 12, 2015</i> - <u><span class="red_bold">Lorem ipsum dolor sit amet</span></u> - Lorem ipsum dolor sit amet, consectetuer adipiscing elit. <br> Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. <br> Vestibulum tortor quam, feugiat vitae, ultrices eget, tempor sit amet, ante. Donec eu libero sit amet <br> quam egestas semper... <i><u><span class="red">Read more</span></u></i></p>
-        <hr>
+    <div class="segon_div">
+        <p class="writing">Writing...</p>
+        <p class="prova"><i class="date">Dec 10, 2015</i> - <u><span class="red_bold">Welcome to Jekyll!</span></u> - You'll find this post in your _posts directory. Go ahead and <br> edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but <br> the most common way is to run jekyll serve,... <i><u><span class="red">Read more</span></u></i></p>
+        <hr class="prova">
+        <p class="prova"><i class="date">Nov 26, 2015</i> - <u><span class="red_bold">Lorem ipsum dolor sit</span></u> - Lorem ipsum dolor sit amet, consectetuer adipiscing elit. <br> Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. <br> Vestibulum tortor quam, feugiat vitae, ultrices eget, tempor sit amet, ante. Donec eu libero sit amet <br> quam egestas semper... <i><u><span class="red">Read more</span></u></i></p>
+        <hr class="prova">
+        <p class="prova"><i class="date">Nov 12, 2015</i> - <u><span class="red_bold">Lorem ipsum dolor sit amet</span></u> - Lorem ipsum dolor sit amet, consectetuer adipiscing elit. <br> Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. <br> Vestibulum tortor quam, feugiat vitae, ultrices eget, tempor sit amet, ante. Donec eu libero sit amet <br> quam egestas semper... <i><u><span class="red">Read more</span></u></i></p>
+        <hr class="prova">
         <p><i class="date">Nov 12, 2015</i> - <u><span class="red_bold">The quick, brown fox jumps over a lazy dog</span></u> - The quick, brown fox jumps over a <br> lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick <br> quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab... <i><u><span class="red">Read more</span></u></i></p>
     </div>
 </body>

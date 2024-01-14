@@ -3,6 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- font-family del primer titol -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@700&display=swap" rel="stylesheet">
+
+    <!-- font-family del primer paràgraf -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Neuton:wght@300&display=swap" rel="stylesheet">
+
     <title>Activitat 3</title>
 
     <style>
@@ -12,12 +23,50 @@
             padding: 0;
         }
 
-        button {
+        .primer_paragraf {
+            background-color: black;
+            color: white;
+            text-align: center;
+        }
+
+        h1 {
+            padding-top: 11%;
+            font-size: 75px;
+            font-family: 'Cabin', sans-serif;
+            font-weight: bold;
+            margin-bottom: 4%;
+        }
+
+        .first_text {
+            font-size: 36px;
+            font-family: 'Neuton', serif;
+            margin-bottom: 4%;
+        }
+
+        .primer_boto {
             color: white;
             text-decoration: none;
             border-radius: 1000px;
             background: rgb(255, 62, 62);
-            padding: 10px 20px 10px 20px;
+            padding: 20px 40px 20px 40px;
+            font-family: Arial, Helvetica, sans-serif;
+            border: 0cap;
+            font-weight: bold;
+            font-size: 25px;
+            margin-bottom: 18%;
+        }
+
+        .body {
+            background-color: rgb(255, 62, 62);
+            color: white;
+        }
+
+        .segon_boto {
+            color: black;
+            text-decoration: none;
+            border-radius: 1000px;
+            background-color: white;
+            padding: 11px 20px 11px 20px;
             font-family: Arial, Helvetica, sans-serif;
             width: 20%;
             border: 0cap;
@@ -28,17 +77,41 @@
 </head>
 <body>
     <header>
-        <h1>YOUR FAVOURITE SOURCE OF FREE <br> BOOTSTRAP THEMES</h1>
-        <hr>
-        <div>
-            <p>Start Bootstrap can help you build better websites using the Bootstrap CSS framework! <br>
-            Just download your template and start going, no strings attached!</p>
-        </div>
-        <div>
-            <button>
-                FIND OUT MORE
-            </button>
+        <div class="primer_paragraf">
+            <h1>YOUR FAVORITE SOURCE OF FREE <br> BOOTSTRAP THEMES</h1>
+            <div>
+                <p class="first_text">
+                    Start Bootstrap can help you build better websites using the Bootstrap CSS framework! <br>
+                    Just download your template and start going, no strings attached!
+                </p>
+            </div>
+            <div>
+                <button class="primer_boto">
+                    FIND OUT MORE
+                </button>
+            </div>
         </div>
     </header>
+    <section>
+        <div class="body">
+            <div>
+                <h3>
+                    We've got what you need!
+                </h3>
+            </div>
+            <div>
+                <p>
+                    Start Bootstrap has everything you need to get you new website up and running in no <br> 
+                    time! All of the templates and themes on Start Bootstrap are open source, free to <br> 
+                    download, and easy to use. No strings attached!
+                </p>
+            </div>
+            <div>
+                <button class="segon_boto">
+                    GET STARTED!
+                </button>
+            </div>
+        </div>
+    </section>
 </body>
 </html>

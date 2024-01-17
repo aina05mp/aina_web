@@ -24,13 +24,29 @@
             position: absolute;
         }
 
+        @keyframes eclipse {
+
+            from {
+                transform: translateX(0);
+            }
+
+            to {
+                transform: translateX(205px);
+            }
+
+        }
+
         .lluna {
             width: 100px;
             height: 100px;
             background-color: gray;
             border-radius: 50%;
             position: absolute;
-            left: 60%;
+            right: 60%;
+            animation-name: eclipse;
+            animation-duration: 5s;
+            animation-timing-function: linear;
+            animation-iteration-count: infinite;
         }
 
     </style>

@@ -10,13 +10,16 @@
         * {
             margin: 0;
             padding: 0;
+            background-image: url(img_threed/floor.jpg);
         }
 
-        .container {
+        .img_wall {
             width: 100%;
-            height: 100%;
-            display: flex;
-            background-image: url(img_threed/wall.jpg);
+            height: 400px;
+            object-fit: cover;
+        }
+
+        .img_oveja {
         }
 
     </style>
@@ -24,9 +27,10 @@
 </head>
 <body>
     <div class="container">
-        <div>
-            <img src="img_threed/oveja.svg" alt="">
-        </div>
+            <img src="img_threed/wall.jpg" alt="" class="img_wall">
+            <div>
+                <img src="img_threed/oveja.svg" alt="" class="img_oveja">
+            </div>
     </div>
 </body>
 </html>

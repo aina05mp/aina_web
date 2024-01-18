@@ -11,8 +11,13 @@
             display: flex;
             align-items: center;
             justify-content: center;
+        }
+
+        .rotate {
+            display: flex;
+            align-items: center;
+            justify-content: center;
             height: 100vh;
-            margin: 0;
             animation: noria 7s linear infinite;
         }
 
@@ -41,11 +46,38 @@
             
         }
 
+        .cookies {
+            animation: cookies 5s linear 2s;
+            border: 1px solid;
+            padding: 1px 30px 1px 30px;
+            align-items: center;
+            justify-content: center;
+        }
+
+        @keyframes cookies {
+
+            from {
+                transform: none;
+            }
+
+            to {
+                transform: scale(2);
+            }
+
+        }
+
     </style>
 
 </head>
 <body>
-    <div class="cercle"></div>
-    <div  class="rectangle"></div>
+    <div class="rotate">
+        <div class="cercle"></div>
+        <div  class="rectangle"></div>
+    </div>
+    <section>
+        <div class="cookies">
+            <p>Cookies</p>
+        </div>
+    </section>
 </body>
 </html>

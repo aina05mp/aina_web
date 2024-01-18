@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Activitat 6</title>
+
+    <style>
+        
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            background-color: rgb(255, 255, 255);
+        }
+
+        .container {
+            position: relative;
+            width: 10px;
+            height: 150px;
+            background-color: black;
+            transform-origin: 50% 0;
+            animation: pendulum 5s infinite ease-in-out;
+            border-radius: 5px;
+        }
+
+        @keyframes pendulum {
+      
+            0%, 100% {
+                transform: rotate(-70deg);
+            }
+      
+            50% {
+                transform: rotate(70deg);
+            }
+        }
+
+    </style>
+
+</head>
+<body>
+    <div class="container"></div>
+</body>
+</html>

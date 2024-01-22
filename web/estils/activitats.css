@@ -4,7 +4,6 @@
 }
 
 section {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: grid;
+    grid-template-columns: 50% 50%;
 }

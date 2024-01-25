@@ -7,3 +7,17 @@ section {
     display: grid;
     grid-template-columns: 50% 50%;
 }
+
+footer {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background-color: aliceblue;
+    padding: 2%;
+    justify-content: center;
+    align-items: center;
+}
+
+.social_media {
+    border: 1px solid;
+    text-decoration: none;
+}

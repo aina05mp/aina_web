@@ -1,26 +1,27 @@
 * {
     margin: 0;
     padding: 0;
-    color: rgb(255, 136, 136);
+    color: rgb(136, 186, 255);
 }
 
 .container_menu {
     display: grid;
-    grid-template-columns: 20% 60% 20%;
+    grid-template-columns: 30% 70%;
     padding-top: 2%;
     padding-bottom: 2%;
     font-family: 'Lucida Sans';
+    box-shadow: 1px 1px 50px;
 }
 
 .titol {
-    padding-left: 18%;
+    padding-left: 21%;
     font-size: 24px;
     font-weight: bold;
 }
 
 .menu_container {
     display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-columns: 14% 14% 14% 14% 14%;
 }
 
 .menu {

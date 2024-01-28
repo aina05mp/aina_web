@@ -3,20 +3,9 @@
     padding: 0;
 }
 
-.container_menu {
-    display: grid;
-    grid-template-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
-    font-family: 'Lucida Sans';
-
-
-    border: 5px solid;
-    border-color: rgb(255, 134, 134);
-}
-
 .menu {
     text-decoration: none;
-    padding-top: 10%;
-    padding-bottom: 10%;
+    color: rgb(255, 136, 136);
 }
 
 .section_activitats {

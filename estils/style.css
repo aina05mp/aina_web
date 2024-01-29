@@ -39,8 +39,12 @@ a {
     color: rgb(255, 61, 61);
 }
 
-.taula {
-    border: 1px solid;
+.section_sobre_mi {
+    font-family: 'Trebuchet MS';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 25vh;
 }
 
 .section_activitats {

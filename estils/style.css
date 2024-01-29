@@ -184,6 +184,39 @@ input::placeholder, textarea::placeholder {
     background-color: rgb(255, 83, 83);
 }
 
+#section_wireframes {
+    background-color: rgb(255, 61, 61);
+    padding-bottom: 3%;
+}
+
+.titol_wireframes {
+    font-family: 'Trebuchet MS';
+    font-weight: bold;
+    font-size: 30px;
+    padding-left: 2%;
+    padding-top: 2%;
+    color: white;
+}
+
+.container_img_esbossos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.titol_esbos {
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 20px;
+    color: rgb(255, 216, 216);
+    font-family: 'Trebuchet MS';
+}
+
+.img_esbossos {
+    width: 60%;
+}
+
 footer {
     color: rgb(255, 61, 61);
 }

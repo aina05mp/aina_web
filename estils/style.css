@@ -65,11 +65,13 @@ a {
     color: white;
 }
 
-.sectiion_formulari {
+.section_formulari {
     min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
 }
 
 form {
@@ -107,6 +109,24 @@ input, textarea {
     border: 2px solid #F0FAF1;
     outline: none;
     font-family: 'Trebuchet MS';
+}
+
+input::placeholder, textarea::placeholder {
+    color: rgb(255, 158, 158);
+}
+
+.button {
+    font-size: 15px;
+    color: white;
+    border: 0;
+    border-radius: 25px;
+    background-color: rgb(255, 61, 61);
+    box-shadow: 0 0 10px rgb(255, 0, 0);
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: rgb(255, 83, 83);
 }
 
 footer {

@@ -39,6 +39,10 @@ a {
     color: rgb(255, 61, 61);
 }
 
+.taula {
+    border: 1px solid;
+}
+
 .section_activitats {
     display: grid;
     grid-template-columns: 50% 50%;

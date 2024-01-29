@@ -65,6 +65,50 @@ a {
     color: white;
 }
 
+.sectiion_formulari {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    padding: 50px 55px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+    text-align: center;
+    width: 340px;
+    font-family: 'Trebuchet MS';
+}
+
+.container_input {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+h2 {
+    color: #283629;
+    font-size: 35px;
+}
+
+label {
+    color: #283629;
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+input, textarea {
+    padding: 17px 25px;
+    border-radius: 25px;
+    margin-bottom: 20px;
+    background-color: rgb(255, 208, 208);
+    border: 2px solid #F0FAF1;
+    outline: none;
+    font-family: 'Trebuchet MS';
+}
+
 footer {
     color: rgb(255, 61, 61);
 }

@@ -7,6 +7,14 @@ header {
     color: rgb(255, 61, 61);
 }
 
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
 .container_menu {
     display: grid;
     grid-template-columns: 30% 70%;
@@ -27,7 +35,6 @@ header {
 }
 
 .menu {
-    text-decoration: none;
     font-size: 18px;
     color: rgb(255, 61, 61);
 }
@@ -36,6 +43,25 @@ header {
     display: grid;
     grid-template-columns: 50% 50%;
     background-color: rgb(255, 61, 61);
+    color: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-family: 'Trebuchet MS';
+}
+
+.html {
+    padding-left: 50%;
+}
+
+.css {
+    padding-left: 35%;
+}
+
+.nom_activitats {
+    font-size: 20px;
+}
+
+.exers {
     color: white;
 }
 

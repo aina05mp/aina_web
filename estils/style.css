@@ -39,6 +39,28 @@ a {
     color: rgb(255, 61, 61);
 }
 
+#section_inici {
+    background-color: rgb(255, 61, 61);
+    color: white;
+    font-family: 'Trebuchet MS';
+}
+
+#container_inici {
+    padding: 3%;
+}
+
+.nom_inici {
+    font-size: 25px;
+}
+
+#container_description {
+    text-align: justify;
+}
+
+#container_description p {
+    font-size: 18px;
+}
+
 .section_sobre_mi {
     font-family: 'Trebuchet MS';
     display: flex;

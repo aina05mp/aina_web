@@ -264,9 +264,14 @@ footer {
     width: 30px;
     height: 30px;
 }
-
 #rss {
     text-align: center;
+    margin-bottom: 3%;
+}
+
+#rss a {
+    padding: 3%;
+    color: red;
 }
 
 #rss a img {

@@ -17,7 +17,7 @@ a {
 
 .container_menu {
     display: grid;
-    grid-template-columns: 20% 80%;
+    grid-template-columns: 30% 70%;
     padding-top: 2%;
     padding-bottom: 2%;
     font-family: 'Trebuchet MS';
@@ -31,7 +31,7 @@ a {
 
 .menu_container {
     display: grid;
-    grid-template-columns: 13.33% 13.33% 13.33% 13.33% 13.33%;
+    grid-template-columns: 14% 14% 14% 14% 14%;
 }
 
 .menu {
@@ -263,6 +263,15 @@ footer {
 .social_media {
     width: 30px;
     height: 30px;
+}
+
+#rss {
+    text-align: center;
+}
+
+#rss a img {
+    width: 70px;
+    height: 70px;
 }
 
 .container_copyright {

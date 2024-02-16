@@ -1,0 +1,207 @@
+﻿<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<atom:link href="https://admin.voicemi.es/@elcerebrodelamaquina/feed.xml" rel="self" type="application/rss+xml"/>
+<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" type="application/rss+xml"/>
+<atom:link href="https://pubsubhubbub.superfeedr.com/" rel="hub" type="application/rss+xml"/>
+<atom:link href="https://websubhub.com/hub" rel="hub" type="application/rss+xml"/>
+<atom:link href="https://switchboard.p3k.io/" rel="hub" type="application/rss+xml"/>
+<generator>VoiceMi</generator>
+<podcast:guid>0f6a2045-e8a5-58d6-a2fa-ed63feb2fe11</podcast:guid>
+<title>El cerebro de la máquina</title>
+<description>
+<![CDATA[ &#129504;El cerebro de la m&aacute;quina es el podcast de Abbcast sobre Inteligencia Artificial. &#127897;Porqu&eacute; ya nada volver&aacute; a ser como antes, cada mes repasamos las &uacute;ltimas noticias e innovaciones en IA y tratamos un tema en profundidad con invitados que viven a la vanguardia de la tecnolog&iacute;a que est&aacute; cambiando el mundo. &#128073;&#127995;Una producci&oacute;n de Abbcast PROPIEDAD INTELECTUAL Todos los contenidos, textos, im&aacute;genes, marcas y c&oacute;digos fuente son de propiedad de JPPRO Barcelona SL y est&aacute;n protegidos por los derechos de Propiedad Intelectual e Industrial. El usuario &uacute;nicamente tiene derecho a un uso privado de los mismos, sin &aacute;nimo de lucro, y necesita autorizaci&oacute;n expresa para modificarlos, reproducirlos, explotarlos, distribuirlos o ejercer cualquier derecho perteneciente a su titular. ]]>
+</description>
+<itunes:image href="https://admin.voicemi.es/media/podcasts/elcerebrodelamaquina/cover_feed.jpg"/>
+<language>es</language>
+<podcast:locked owner="info@abbcast.com">yes</podcast:locked>
+<podcast:previousUrl>https://www.ivoox.com/feed_fg_f11935437_filtro_1.xml</podcast:previousUrl>
+<podcast:id platform="apple" id="1685857443" url="https://podcasts.apple.com/es/podcast/el-cerebro-de-la-m%C3%A1quina/id1685857443"/>
+<podcast:id platform="google" id="aHR0cHM6Ly93d3cuaXZvb3guY29tL3BvZGNhc3QtY2VyZWJyby1tYXF1aW5hX2ZnX2YxMTkzNTQzN19maWx0cm9fMS54bWw" url="https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuaXZvb3guY29tL3BvZGNhc3QtY2VyZWJyby1tYXF1aW5hX2ZnX2YxMTkzNTQzN19maWx0cm9fMS54bWw?hl=es"/>
+<podcast:id platform="ivoox" id="11935437" url="https://www.ivoox.com/podcast-cerebro-maquina_sq_f11935437_1.html"/>
+<podcast:id platform="spotify" id="5zxC2oOIjwD7exUBNRIB2u" url="https://open.spotify.com/show/5zxC2oOIjwD7exUBNRIB2u"/>
+<itunes:category text="Technology"/>
+<category>Technology</category>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>Abbcast</itunes:author>
+<itunes:owner>
+<itunes:name>Abbcast</itunes:name>
+<itunes:email>info@abbcast.com</itunes:email>
+</itunes:owner>
+<itunes:type>episodic</itunes:type>
+<copyright>© 2024 Abbcast</copyright>
+<image>
+<url>https://admin.voicemi.es/media/podcasts/elcerebrodelamaquina/cover_feed.jpg</url>
+<title>El cerebro de la máquina</title>
+</image>
+<item>
+<title>La IA y la predicción de los desastres naturales</title>
+<enclosure url="https://admin.voicemi.es/audio/@elcerebrodelamaquina/la-ia-y-la-prediccion-de-los-desastres-naturales.mp3" length="85150963" type="audio/mpeg"/>
+<guid>ep-49760666227-la-ia-y-la-prediccion-de-los-desastres-naturales</guid>
+<pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+<description>
+<![CDATA[ <p>Bienvenidos a El Cerebro de la Máquina! Hoy hablamos de la capacidad de la IA para poder predecir los desastres naturales. Lo hablamos con: Javier Díez Sierra, investigador Postdoctoral en el Instituto de Física de Cantabria, Daniel Santos Muñoz del Servicio Meteo Danés y Carles Nerín Faydella del grupo de meteorólogos del Observatorio Fabra.</p> ]]>
+</description>
+<itunes:duration>2129</itunes:duration>
+<itunes:image href="https://admin.voicemi.es/media/podcasts/elcerebrodelamaquina/la-ia-y-la-prediccion-de-los-desastres-naturales_feed.jpg"/>
+<itunes:episode>13</itunes:episode>
+<itunes:season>1</itunes:season>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>¿Qué podemos esperar de la nueva Ley de Inteligencia Artificial de la UE?</title>
+<enclosure url="https://admin.voicemi.es/audio/@elcerebrodelamaquina/que-podemos-esperar-de-la-nueva-ley-de-inteligencia-artificial-de-la-ue.mp3" length="29380576" type="audio/mpeg"/>
+<guid>https://www.ivoox.com/122661669</guid>
+<pubDate>Tue, 16 Jan 2024 12:37:17 +0000</pubDate>
+<description>
+<![CDATA[ <p>Bienvenidos al Cebrero de la Máquina! Hoy hablamos del marco legislativo de la Inteligencia Artificial. ¿Cómo tiene que ser la ley que regule las IA?, ¿Qué hay que proteger y qué hay que permitir?. Lo hacemos con: Xavi Salla doctor en comunicación y en ciencias jurídicas. Imparte clases de transformación y estrategia digital en las Universidades Autónoma de Barcelona y Abad Oliba CEU. Y Juan Carlos Hernández Peña, Profesor Titular de Derecho Administrativo de la Universidad de Navarra.</p> ]]>
+</description>
+<itunes:duration>1836</itunes:duration>
+<itunes:image href="https://admin.voicemi.es/media/podcasts/elcerebrodelamaquina/que-podemos-esperar-de-la-nueva-ley-de-inteligencia-artificial-de-la-ue_feed.jpg"/>
+<itunes:episode>12</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Smart Cities, ¿ciudades dirigidas por la IA?</title>
+<enclosure url="https://admin.voicemi.es/audio/@elcerebrodelamaquina/smart-cities-ciudades-dirigidas-por-la-ia.mp3" length="32540766" type="audio/mpeg"/>
+<guid>https://www.ivoox.com/120926981</guid>
+<pubDate>Tue, 12 Dec 2023 09:24:18 +0000</pubDate>
+<description>
+<![CDATA[ Hoy nos acercamos al concepto de "ciudades inteligentes", que han integrado las tecnolog&iacute;as digitales en toda su infraestructura para mejorar su rendimiento y organizaci&oacute;n. &iquest;Qu&eacute; funci&oacute;n tiene la IA en estos proyectos?, &iquest;Hasta donde tendr&aacute; un papel decisivo y aut&oacute;nomo la IA en las ciudades del futuro?. Estan con nosotros: Daniel Gonz&aacute;lez Bootello, Director general de Smart City Cluster y presidente de la federaci&oacute;n nacional de Clusters, y Borja Moya G&oacute;mez Profesor Ayudante Doctor en Dpto Geograf&iacute;a de la Universidad Complutense de Madrid. @bootello y @tGIS_ucm Presenta Alejandro G&oacute;mez ]]>
+</description>
+<itunes:duration>2034</itunes:duration>
+<itunes:image href="https://admin.voicemi.es/media/podcasts/elcerebrodelamaquina/smart-cities-ciudades-dirigidas-por-la-ia_feed.jpg"/>
+<itunes:episode>11</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>La IA y el futuro de la animación</title>
+<enclosure url="https://admin.voicemi.es/audio/@elcerebrodelamaquina/la-ia-y-el-futuro-de-la-animacion.mp3" length="32459264" type="audio/mpeg"/>
+<guid>https://www.ivoox.com/119392926</guid>
+<pubDate>Tue, 14 Nov 2023 04:31:00 +0000</pubDate>
+<description>
+<![CDATA[ Animaci&oacute;n, 3D, 2D... la IA puede recrear ya lo que se quiera, foto fija e imagenes en movimiento. Pero, &iquest;est&aacute; preparada la IA para crear sola una pel&iacute;cula de animaci&oacute;n?. &iquest;C&oacute;mo se implenta esta herramienta tecnol&oacute;gica en el sector y cu&aacute;l ser&aacute; su papel en el futuro?. Lo hablamos con Carlos Cosials Ruiz de Integral Innovation Experts del grupo 9Altitudes; y con Alba Meijide, AI Consultant &amp; Project Manager. ]]>
+</description>
+<itunes:duration>2029</itunes:duration>
+<itunes:image href="https://admin.voicemi.es/media/podcasts/elcerebrodelamaquina/la-ia-y-el-futuro-de-la-animacion_feed.jpg"/>
+<itunes:episode>10</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>El transporte y la logística que viene gracias a la IA</title>
+<enclosure url="https://admin.voicemi.es/audio/@elcerebrodelamaquina/el-transporte-y-la-logistica-que-viene-gracias-a-la-ia.mp3" length="32844621" type="audio/mpeg"/>
+<guid>https://www.ivoox.com/117883895</guid>
+<pubDate>Tue, 17 Oct 2023 07:11:37 +0000</pubDate>
+<description>
+<![CDATA[ &#129302;&iquest;La IA acabar&aacute; gestionando al 100% el transporte?, &iquest;Robots inteligentes nos traeran la compra del s&uacute;per a casa?, Y el transporte, &iquest;la IA conducir&aacute; trenes y autobuses?. &#128483;&#65039;Hablamos con I&ntilde;aki Pertusa, Mentor en la empresa Culinary Action, socio en Decidata. I&ntilde;aki lleva desde 2015 ayudando a otras empresas a incorporar la IA en sus procesos. Y con Jose Antonio Carrillo, Presidente de Mundo &Oacute;ptico. Matem&aacute;tico vacacional, cuenta con m&aacute;s de 25 a&ntilde;os de experiencia en el &aacute;rea de ayuda a la decisi&oacute;n en sectores como personal, log&iacute;stica seguridad y defensa o sanitario entre otros. Una producci&oacute;n de Abbcast ]]>
+</description>
+<itunes:duration>2053</itunes:duration>
+<itunes:image href="https://admin.voicemi.es/media/podcasts/elcerebrodelamaquina/el-transporte-y-la-logistica-que-viene-gracias-a-la-ia_feed.jpg"/>
+<itunes:episode>9</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>La Inteligencia Artificial y el sector musical</title>
+<enclosure url="https://admin.voicemi.es/audio/@elcerebrodelamaquina/la-inteligencia-artificial-y-el-sector-musical.mp3" length="29864154" type="audio/mpeg"/>
+<guid>https://www.ivoox.com/115920490</guid>
+<pubDate>Wed, 13 Sep 2023 01:35:00 +0000</pubDate>
+<description>
+<![CDATA[ Volvemos tras las vacaciones con un nuevo episodio de El Cerebro de la M&aacute;quina para seguir pregunt&aacute;ndonos c&oacute;mo va a cambiar la IA nuestra vida en diferentes sectores. En este caso hablamos y debatimos sobre el sector musical. &iquest;Puede ser que el pr&oacute;ximo gran &eacute;xito musical mundial pueda estar compuesto por una m&aacute;quina? Parece que s&iacute;... Lo comentamos todo con Alejandro G&oacute;mez a los mandos y Pere Peries (Barcelona, 1969), es m&uacute;sico moderno del Berklee College de Boston y miembro oficial de la AELC Writers Association. Adem&aacute;s de Miquel Vilchez. Productor experimentado con una trayectoria demostrada de trabajo en el audiobranding y producci&oacute;n musical. Experto en Pro Tools, Adobe Audition, Broadcasting, Cubase e ingenier&iacute;a de audio. Responsable de Imagen Radiof&oacute;nica de Grup Flaix. ]]>
+</description>
+<itunes:duration>1866</itunes:duration>
+<itunes:image href="https://admin.voicemi.es/media/podcasts/elcerebrodelamaquina/la-inteligencia-artificial-y-el-sector-musical_feed.jpg"/>
+<itunes:episode>8</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>La inteligencia artificial en el ámbito de la salud y la medicina</title>
+<enclosure url="https://admin.voicemi.es/audio/@elcerebrodelamaquina/la-inteligencia-artificial-en-el-ambito-de-la-salud-y-la-medicina.mp3" length="46785650" type="audio/mpeg"/>
+<guid>https://www.ivoox.com/112608432</guid>
+<pubDate>Tue, 18 Jul 2023 11:12:55 +0000</pubDate>
+<description>
+<![CDATA[ &#128104;&zwj;&#128300;Cada vez se publican m&aacute;s estudios exitosos sobre la aplicaci&oacute;n de la inteligencia artificial (IA) al an&aacute;lisis de distintas pruebas de diagn&oacute;stico y a tantos otros casos. &iquest;Tiene la Inteligencia Artificial tiene el potencial de curar enfermedades? &iquest;En qu&eacute; est&aacute; ayudando la Inteligencia Artificial actualmente en el campo de la medicina y farmac&eacute;utica? &iquest;Cu&aacute;les son las implicaciones &eacute;ticas y legales que surgen con el uso de la Inteligencia Artificial en medicina y farmac&eacute;utica? &#128073;&#127995;Lo comentamos con Rafael Borr&agrave;s, Director de Corporate Affairs &amp; Market Access en TEVA Pharmaceuticals y profesor en la Universidad de Barcelona, Elisa Martin, experta en IA y directora del &aacute;rea de salud en el Instituto de Ingenier&iacute;a del Conocimiento y Paula Petrone, profesora investigadora asociada y jefa del equipo de Ciencia de Datos en ISGlobal . &#127897;Presentado por Alejandro G&oacute;mez &#128161;Una producci&oacute;n de Abbcast ]]>
+</description>
+<itunes:duration>2924</itunes:duration>
+<itunes:image href="https://admin.voicemi.es/media/podcasts/elcerebrodelamaquina/la-inteligencia-artificial-en-el-ambito-de-la-salud-y-la-medicina_feed.jpg"/>
+<itunes:episode>7</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>La IA en la política: ¿nos gobernará un sistema de inteligencia artificial?</title>
+<enclosure url="https://admin.voicemi.es/audio/@elcerebrodelamaquina/la-ia-en-la-politica-nos-gobernara-un-sistema-de-inteligencia-artificial.mp3" length="40809653" type="audio/mpeg"/>
+<guid>https://www.ivoox.com/111425362</guid>
+<pubDate>Tue, 04 Jul 2023 01:10:00 +0000</pubDate>
+<description>
+<![CDATA[ &#129504; Bienvenidos a un nuevo episodio de 'El cerebro de la m&aacute;quina', un podcast de Abbcast presentado por Alejandro G&oacute;mez. &#128240; Repasamos noticias de actualidad relacionadas con la IA y el sector. &#128483;&#65039; Debatimos sobre el impacto de la inteligencia artificial en el &aacute;mbito de la pol&iacute;tica con Xavier Tom&agrave;s (@xtomas), consultor de comunicaci&oacute;n pol&iacute;tica; y con Leire Legarreta (@leire_legarreta), CEO de la consultor&iacute;a de Inteligencia Artificial We Are Clickers (@we_are_clickers). &#129300; &iquest;C&oacute;mo se est&aacute; utilizando hoy en d&iacute;a la inteligencia artificial en el mundo de la pol&iacute;tica? &iquest;Vamos hacia un nuevo modelo de gobierno nunca antes visto? ]]>
+</description>
+<itunes:duration>2551</itunes:duration>
+<itunes:image href="https://admin.voicemi.es/media/podcasts/elcerebrodelamaquina/la-ia-en-la-politica-nos-gobernara-un-sistema-de-inteligencia-artificial_feed.jpg"/>
+<itunes:episode>6</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>¿Cómo nos puede ayudar la IA a nivel económico?</title>
+<enclosure url="https://admin.voicemi.es/audio/@elcerebrodelamaquina/como-nos-puede-ayudar-la-ia-a-nivel-economico.mp3" length="43990682" type="audio/mpeg"/>
+<guid>https://www.ivoox.com/110783125</guid>
+<pubDate>Tue, 20 Jun 2023 12:27:56 +0000</pubDate>
+<description>
+<![CDATA[ &#129504; Bienvenidos a un nuevo episodio de 'El cerebro de la m&aacute;quina', un podcast de Abbcast presentado por Alejandro G&oacute;mez. &#128240; Repasamos noticias de actualidad relacionadas con la IA y el sector. &#128483;&#65039; Debatimos sobre el impacto de la inteligencia artificial en el sector de la econom&iacute;a y c&oacute;mo puede ayudarnos a potenciarla. Lo hacemos con Manuel Ruiz, socio fundador y CEO de In2AI; y Eduardo Matallanas, engineer experto en IA en Plain Concepts. &#129300; &iquest;Puede la IA predecir c&oacute;mo se van a comportar los mercados? &iquest;Puede ayudarnos con los procesos autom&aacute;ticos? &iquest;D&oacute;nde se puede notar m&aacute;s su incidencia: microeconom&iacute;a o macroeconom&iacute;a? ]]>
+</description>
+<itunes:duration>2749</itunes:duration>
+<itunes:image href="https://admin.voicemi.es/media/podcasts/elcerebrodelamaquina/como-nos-puede-ayudar-la-ia-a-nivel-economico_feed.jpg"/>
+<itunes:episode>5</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>El mercado laboral que viene con la IA</title>
+<enclosure url="https://admin.voicemi.es/audio/@elcerebrodelamaquina/el-mercado-laboral-que-viene-con-la-ia.mp3" length="39225529" type="audio/mpeg"/>
+<guid>https://www.ivoox.com/109776316</guid>
+<pubDate>Tue, 06 Jun 2023 08:38:22 +0000</pubDate>
+<description>
+<![CDATA[ Descripcion: &#129504; Bienvenidos a un nuevo epiosdio de 'El cerebro de la m&aacute;quina', un podcast de Abbcast presentado por Alejandro G&oacute;mez. &#128240; Repasamos noticias de actualidad relacionadas con la IA y el sector. &#128483;&#65039; Debatimos sobre el nuevo mercado laboral que nos va a dejar la inteligencia artificial. Lo hacemos con Javier Pastor (@javipas), editor en Xataka; y Juan Merodio (@juanmerodio), divulgador de marketing y la Nueva Econom&iacute;a Digital (Web3, IA y Nuevas Tecnolog&iacute;as). &#129300; &iquest;Qu&eacute; nuevos puestos de trabajo crear&aacute; la inteligencia artificial? &iquest;Debemos formarnos de forma continuada para poder competir? &iquest;Veremos una empresa milmillonaria dirigida por una sola persona gracias a la IA? ]]>
+</description>
+<itunes:duration>2452</itunes:duration>
+<itunes:image href="https://admin.voicemi.es/media/podcasts/elcerebrodelamaquina/el-mercado-laboral-que-viene-con-la-ia_feed.jpg"/>
+<itunes:episode>4</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>¿Puede la IA alterar la forma en la que percibimos la realidad?</title>
+<enclosure url="https://admin.voicemi.es/audio/@elcerebrodelamaquina/puede-la-ia-alterar-la-forma-en-la-que-percibimos-la-realidad.mp3" length="47744373" type="audio/mpeg"/>
+<guid>https://www.ivoox.com/108764856</guid>
+<pubDate>Tue, 23 May 2023 07:18:14 +0000</pubDate>
+<description>
+<![CDATA[ &#129504; Bienvenidos a un nuevo epiosdio de 'El cerebro de la m&aacute;quina', un podcast de Abbcast presentado por Alejandro G&oacute;mez. &#128240; Repasamos noticias de actualidad relacionadas con la IA y el sector. &#128483;&#65039; Debatimos sobre c&oacute;mo la IA puede condicionar lo que parece real: desde im&aacute;genes, a v&iacute;deos, sonido... Lo hacemos con Aleix Hildebrandt (@aleixhcat), psic&oacute;logo sanitario y forense con inter&eacute;s en innovaci&oacute;n tecnol&oacute;gico e inteligencia artificial, y con Sergio &Aacute;lvarez-Napagao, investigador en el Barcelona Supercomputing Center (@BSC_CNS) y profesor en la Universidad Polit&eacute;cnica de Catalunya (@la_UPC). &#129300; &iquest;Puede la inteligencia artificial llegar hasta un punto de realismo tan grande que nos permita dudar de qu&eacute; es real y qu&eacute; no? &iquest;C&oacute;mo se puede combatir un deep fake? &iquest;Podremos crear universos propios de aqu&iacute; a no mucho tiempo? &iquest;Es esto un riesgo? Carlos Rojas ]]>
+</description>
+<itunes:duration>2984</itunes:duration>
+<itunes:image href="https://admin.voicemi.es/media/podcasts/elcerebrodelamaquina/puede-la-ia-alterar-la-forma-en-la-que-percibimos-la-realidad_feed.jpg"/>
+<itunes:episode>3</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>El cine y la inteligencia artificial</title>
+<enclosure url="https://admin.voicemi.es/audio/@elcerebrodelamaquina/el-cine-y-la-inteligencia-artificial.mp3" length="54919955" type="audio/mpeg"/>
+<guid>https://www.ivoox.com/107832783</guid>
+<pubDate>Tue, 09 May 2023 12:07:08 +0000</pubDate>
+<description>
+<![CDATA[ &#129504; Bienvenidos al primer epiosdio de 'El cerebro de la m&aacute;quina', un podcast de Abbcast presentado por Alejandro G&oacute;mez. &#128240; Repasamos noticias de actualidad relacionadas con la IA y su potencial. &#128483;&#65039; Debatimos sobre el futuro del cine con la llegada de la inteligencia artificial con Karina Gibert, directora del Intelligent Data Science and Artificial Intelligence Research Center, en la Universidad Polit&egrave;cnica de Catalunya; y Carlos Rojas, experto de cine de Abbcast. &#127916; &iquest;Es el fin de los/las guionistas? &iquest;Qu&eacute; pasar&aacute; con los directores y las grandes producciones? &iquest;C&oacute;mo puede mejorar la inteligencia artificial las t&eacute;cnicas de cine actuales? ]]>
+</description>
+<itunes:duration>3432</itunes:duration>
+<itunes:image href="https://admin.voicemi.es/media/podcasts/elcerebrodelamaquina/el-cine-y-la-inteligencia-artificial_feed.jpg"/>
+<itunes:episode>2</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Bienvenidos al 'Cerebro de la máquina'</title>
+<enclosure url="https://admin.voicemi.es/audio/@elcerebrodelamaquina/bienvenidos-al-cerebro-de-la-maquina.mp3" length="739070" type="audio/mpeg"/>
+<guid>https://www.ivoox.com/107366454</guid>
+<pubDate>Tue, 02 May 2023 09:51:22 +0000</pubDate>
+<description>
+<![CDATA[ Te presentamos el 'Cerebro de la m&aacute;quina' el podcast de Abbcast sobre Inteligencia Artificial. Ya nada volver&aacute; a ser como antes por eso cada 15 d&iacute;as repasamos las &uacute;ltimas noticias e innovaciones en IA y tratamos un tema en profundidad con invitados que viven a la vanguardia de la tecnolog&iacute;a que est&aacute; cambiando el mundo. &iquest;Te unes? ]]>
+</description>
+<itunes:duration>46</itunes:duration>
+<itunes:image href="https://admin.voicemi.es/media/podcasts/elcerebrodelamaquina/bienvenidos-al-cerebro-de-la-maquina_feed.jpg"/>
+<itunes:episode>1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+</channel>
+</rss>
